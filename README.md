@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mishikalunia
 - A college senior majoring in EECS and minoring in Humanities and Social Science. 
 - I am enthusiastic about politics, fashion and design..
-- 🌱 I’m currently learning Full Stack
+- I’m currently learning Full Stack
 - 📫 You can reach me at mishikalunia@gmail.com
 
 <!---
