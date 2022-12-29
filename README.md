@@ -23,6 +23,5 @@
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/mishika_lunia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mishika-lunia-73725914a/) 
  
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
