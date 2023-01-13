@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 My name is Mishika Lunia.<br>🪐 I am an EECS undergrad at IISER Bhopal. I am also minoring in Humanities and Social Science.<br>🔭I am interested in the intersection of Computational Social Science<br>💬 Ask me about: politics, social justice issues, fashion and design<br>📫 How to reach me: Mail at mishikalunia@gmail.com or @ LinkedIn.<br>⚡ Fun fact: I love coloring my hair
+👋 My name is Mishika Lunia.<br>🪐 I am an EECS undergrad at IISER Bhopal. I am also minoring in Humanities and Social Science.<br>⚡I am interested in the intersection of Computational Social Science<br>💬 Ask me about: politics, social justice issues, fashion and design<br>📫 How to reach me: Mail at mishikalunia@gmail.com or @ LinkedIn.
 
 
 # 💻 Tech Stack:
