@@ -22,6 +22,9 @@
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/mishika_lunia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mishika-lunia-73725914a/) 
+
+## Articles
+[![Creating a Clothing Brand using ChatGPT and Midjourney](https://medium.com/@mishika.lunia/creating-a-clothing-brand-using-chatgpt-and-midjourney-8a71c1bbcc1c)
  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
