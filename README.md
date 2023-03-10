@@ -3,7 +3,7 @@
 
 
 ## 💻 Tech Stack:
-**Languages:**
+###Languages:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white) 
 
 **ML/DL:**
@@ -28,9 +28,5 @@
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mishika-lunia-73725914a/) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/mishika_lunia)
  
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
- 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
