@@ -13,18 +13,19 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
 
 **IDEs:**
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Anaconda]![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 **Others:**
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13) ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
 
+## 📖 Articles
+[Creating a Clothing Brand using ChatGPT and Midjourney](https://medium.com/@mishika.lunia/creating-a-clothing-brand-using-chatgpt-and-midjourney-8a71c1bbcc1c)
+
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/mishika_lunia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mishika-lunia-73725914a/) 
 
-## 📖 Articles
-[Creating a Clothing Brand using ChatGPT and Midjourney](https://medium.com/@mishika.lunia/creating-a-clothing-brand-using-chatgpt-and-midjourney-8a71c1bbcc1c)
  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
