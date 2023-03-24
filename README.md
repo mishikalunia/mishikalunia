@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 My name is Mishika Lunia.<br>🪐 I am an EECS undergrad at IISER Bhopal. I am also minoring in Humanities and Social Science.<br>⚡I am interested in Computational Social Science<br>💬 Ask me about: politics, social justice issues, fashion and design<br>📫 How to reach me: Mail at mishikalunia@gmail.com or @ LinkedIn.
+👋 My name is Mishika Lunia.<br>🪐 I am an EECS undergrad at IISER Bhopal. I am also minoring in Humanities and Social Science.<br>⚡I am interested in Computational Social Science<br>💬 Ask me about: politics, social justice issues and design<br>📫 How to reach me: Mail at mishikalunia@gmail.com or @ LinkedIn.
 
 ## 📖 Articles
 [Creating a Clothing Brand using ChatGPT and Midjourney](https://medium.com/@mishika.lunia/creating-a-clothing-brand-using-chatgpt-and-midjourney-8a71c1bbcc1c)
