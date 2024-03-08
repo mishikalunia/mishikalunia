@@ -1,9 +1,9 @@
 
-## 📖 Articles
-[Creating a Clothing Brand using ChatGPT and Midjourney](https://medium.com/@mishika.lunia/creating-a-clothing-brand-using-chatgpt-and-midjourney-8a71c1bbcc1c)
-
 # 💫 About Me:
 My name is Mishika Lunia.<br>How to reach me: Mail at mishikalunia@gmail.com or @ LinkedIn.
+
+## 📖 Articles
+[Creating a Clothing Brand using ChatGPT and Midjourney](https://medium.com/@mishika.lunia/creating-a-clothing-brand-using-chatgpt-and-midjourney-8a71c1bbcc1c)
 
 
 # 💻 Tech Stack:
