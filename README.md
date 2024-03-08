@@ -17,5 +17,6 @@ My name is Mishika Lunia.<br>How to reach me: Mail at mishikalunia@gmail.com or 
 ### DataBases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+### Other Softwares
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
