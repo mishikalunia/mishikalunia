@@ -1,6 +1,5 @@
 
 # 💫 About Me:
-My name is Mishika Lunia.
 How to reach me: Mail at mishikalunia@gmail.com or @ LinkedIn.
 
 ## 📖 Articles
