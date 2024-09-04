@@ -1,5 +1,7 @@
 
 # 💫 About Me:
+I am passionate about computational neuroscience, cognitive science, and sustainable AI. With a strong background in EECS and data science, I focus on using advanced algorithms to solve complex problems in neuroscience and explore environmentally responsible AI solutions.
+
 How to reach me: Mail at mishikalunia@gmail.com or @ LinkedIn.
 
 ## 📖 Articles
